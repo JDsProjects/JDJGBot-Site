@@ -137,3 +137,14 @@ body {
   background: #f5b282!important;
   color: black;
 }
+.imodal-content button {
+  border: 1px solid black;
+  background-color: #eb6d15;
+  border-radius: 1;
+  color: black;
+}
+.imodal-content button:hover {
+  border: 1px solid black;
+  background: #f5b282!important;
+  color: black;
+}
