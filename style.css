@@ -28,7 +28,7 @@ body {
 
 .features-flex {
   display: flex;
-  justify-content: right;
+  justify-content: center;
   margin: 3em auto;
 }
 
@@ -60,7 +60,7 @@ body {
 
 .contact {
   display: flex;
-  justify-content: left;
+  justify-content: center;
   margin: 0px 1em;
 }
 
