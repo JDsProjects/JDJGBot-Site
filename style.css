@@ -126,3 +126,8 @@ body {
   background: #f5b282;
   color: black;
 }
+.btn-outline-secondary button:hover {
+  border: 1px solid black;
+  background: #f5b282;
+  color: black;
+}
