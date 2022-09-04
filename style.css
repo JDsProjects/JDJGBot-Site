@@ -61,7 +61,9 @@ body {
 .contact {
   display: flex;
   justify-content: center;
+  align-items: center;
   margin: 0px 1em;
+  flex-direction: column;
 }
 
 .btn {
