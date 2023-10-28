@@ -1,0 +1,26 @@
+{
+    "name": "jdjgbot-site",
+    "private": true,
+    "version": "2.0.0",
+    "type": "module",
+    "author": "JDJG",
+    "description": "The Official website for JDJG Bot.",
+    "homepage": "https://www.jdjgbot.com",
+    "license": "MPL-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JDsProjects/JDJGBot-Site.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JDsProjects/JDJGBot-Site/issues"
+    },
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite",
+        "preview": "vite build && vite preview --port 3000",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "vite": "^4.5.0"
+    }
+}
