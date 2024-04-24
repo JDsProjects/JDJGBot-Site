@@ -21,6 +21,6 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "devDependencies": {
-        "vite": "^4.5.2"
+        "vite": "^4.5.3"
     }
 }
